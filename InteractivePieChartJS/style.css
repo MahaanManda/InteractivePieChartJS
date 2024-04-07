@@ -1,0 +1,5 @@
+.slider {
+  width: 100%; /* Make the slider responsive */
+  position: absolute; /* Position the slider absolutely */
+  top: 20px; /* Adjust the top offset */
+}
